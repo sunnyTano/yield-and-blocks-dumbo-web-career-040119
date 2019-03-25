@@ -2,9 +2,6 @@ def hello_t
 
 end
 
-# call your method here!
-
-# require "spec_helper"
 
 # describe "#hello_t" do
 #   let (:names) { ["Tim", "Tom", "Jim"] }
