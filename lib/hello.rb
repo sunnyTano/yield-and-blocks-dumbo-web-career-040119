@@ -4,6 +4,7 @@ def hello_t(arr)
   yield arr[i]
   i += 1 
 end
+arr
 end
 
 hello_t(["Tim", "Tom", "Jim"]) do |name|
