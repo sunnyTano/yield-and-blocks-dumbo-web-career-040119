@@ -4,7 +4,6 @@ def hello_t(arr)
   yield arr[i]
   i += 1 
 end
-
 end
 
 # describe "#hello_t" do
